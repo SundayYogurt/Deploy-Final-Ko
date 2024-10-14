@@ -1,0 +1,1 @@
+<template><input type="text" placeholder="ค้นหา" class="input input-bordered w-full max-w-xs" /></template>
