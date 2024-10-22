@@ -17,21 +17,21 @@
     <div class="container mx-auto my-4 p-9">
       <div class="flex flex-row gap-10 justify-center">
         <Card
-          image="./img/card1.jpg"
+          image="./public/img/card1.jpg"
           title="BoyToys"
           description="A cozy and relaxing bar."
           :tags="['Drink', 'Chill']"
           :isNew="false"
         />
         <Card
-          image="./img/card2.jpg"
+          image="./public/img/card2.jpg"
           title="สำเพ็ง"
           description="Enjoy live music and drinks."
           :tags="['Music', 'Live']"
           :isNew="false"
         />
         <Card
-          image="./img/card3.jpg"
+          image="./public/img/card3.jpg"
           title="Flys"
           description="A rooftop bar with scenic views."
           :tags="['Rooftop', 'View']"
